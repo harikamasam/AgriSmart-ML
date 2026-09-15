@@ -1,0 +1,11 @@
+Feature,Importance
+K,0.15344253
+rainfall,0.1291501
+Rainfall_Humidity_Index,0.11976853
+Total_NPK,0.1053872
+humidity,0.093406126
+N_K_Ratio,0.093363024
+P,0.091880746
+P_K_Ratio,0.079406835
+Mean_NPK,0.069473416
+Temperature_Humidity_Index,0.064721495

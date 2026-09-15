@@ -1,0 +1,16 @@
+Feature,RFE_Ranking,Selected
+K,1,True
+Mean_NPK,1,True
+N,1,True
+P,1,True
+P_K_Ratio,1,True
+Rainfall_Humidity_Index,1,True
+Temperature_Humidity_Index,1,True
+Total_NPK,1,True
+humidity,1,True
+rainfall,1,True
+N_K_Ratio,2,False
+temperature,3,False
+N_P_Ratio,4,False
+ph,5,False
+Nutrient_Balance,6,False
