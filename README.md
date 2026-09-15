@@ -145,8 +145,3 @@ python src\architecture_diagram.py
 - `results/classification_report_*.txt` — one report per experiment.
 - `models/best_crop_model.pkl` — automatically selected best model bundle.
 
-## Team Members
-
-- 23EG106D01 A. SNIGDHA VARSHINI
-- 23EG106D57 M. HARIKA
-- 23EG106D13 M. TEJAS
